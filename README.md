@@ -12,14 +12,15 @@ parser, libcparse.a, contianing all necessary functions for parsing (apart from 
 second library, libllist, solely contains a linkedlist API.
 
 ## Compiling
-
+<pre>
 To compile 'libcparse.a' and 'libllist.a':
-	make
-		or
-	make all
+    make
+  or
+    make all
 
 To compile 'libcparse.a':
-	make parser
+    make parser
 
 To compile 'libllist.a':
-	make list
+    make list
+</pre>
